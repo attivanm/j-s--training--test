@@ -1,3 +1,4 @@
+//-
  var GetBio = require('./GetBio.js');
 
  describe('test cases about information', function (){
